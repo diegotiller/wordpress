@@ -1,0 +1,105 @@
+body{
+	background-color: #00FF00;
+}
+
+/* Formatação do menu todo */
+.main_menu{
+	background-color: #FF0000;
+}
+
+/* formatação dos itens do menu */
+.main_menu ul,
+.main_menu li{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.main_menu li{
+	display: inline;
+	margin-left: 10px;
+}
+
+/* Formatação do container */
+.container{
+	width: 70%;
+	float: left;
+}
+
+/* Página fullwidth ocupando 100% da largura e sem a sidebar */
+.fullwidth{
+	width: 100%;
+}
+
+/* Formatação da sidebar */
+sidebar{
+	width: 30%;
+	float: left;
+	margin-top: 10px;
+}
+
+.widgets_title{
+	color: #0000FF;
+}
+
+/* borda de separação dos comentários */
+article{
+	background-color: #FFF;
+	border-bottom: 1px solid #000;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px 0px 0px 0px;
+}
+
+/* Formatação da miniatura dos posts */
+article .post_thumbnail{
+	float: left;
+	margin-right: 20px;
+}
+
+/* Formatação da paginação */
+.paginacao{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.pagina_anterior{
+	float: left;
+}
+
+.pagina_proxima{
+	float: right;
+}
+
+/* Espaçamento do rodapé */
+footer{
+	margin-top: 50px;
+}
+
+/* Formatando o template de comentários */
+.comentario{
+	border-bottom: 1px solid #CCC;
+}
+
+.comentario_foto{
+	float: left;
+	margin-right: 10px;
+}
+
+.comentario_area{
+
+}
+
+/* Customização de posts relacionados */
+.post_related_item{
+	width: 33%;
+	float: left;
+}
+
+/* Customizando a logo do site */
+.custom_logo{
+	width: 70px;
+	height: 70px;
+	float: left;
+	margin-right: 20px;
+}

@@ -1,0 +1,1 @@
+Repósitório com aulas do curso B7WEB de WordPress, todos os códigos estão comentados explicando a funcionalidade de cada um deles.
